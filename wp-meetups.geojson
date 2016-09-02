@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.51659,
+          13.39053
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Berlin",
+        "address": "The Digital Eatery, Unter den Linden 17, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94812,
+          7.44948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Bern",
+        "address": "Urbanfish Coworking Space, Kramgasse 58, Bern, 3011 Schweiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.08224,
+          8.81157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Bremen",
+        "address": "Loft, Bahnhofsplatz 5, Bremen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.03377,
+          13.75916
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Dresden",
+        "address": "markenzoo, Tiergartenstraße 32, 01219 Dresden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.34888,
+          6.67441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Eifel",
+        "address": "Higis-Ring 3, 54578 Wiesbaum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.45179,
+          11.07345
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Franken",
+        "address": "CoWorking Nürnberg, Josephsplatz 8, 90403 Nürnberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11510,
+          8.69560
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Frankfurt",
+        "address": "moenus+friends, Friedberger Anlage 8 (Hinterhaus), 60314 Frankfurt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99405,
+          7.83992
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Freiburg",
+        "address": "Grünhof Freiburg, Belfortstr. 52, 79098 Freiburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.56256,
+          9.96011
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Hamburg",
+        "address": "betahaus Hamburg, Eifflerstraße 43, 22769 Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.36833,
+          9.72009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Hannover",
+        "address": "CrossOver-Marketing, Schwarzer Bär 4, 30449 Hannover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.00706,
+          8.40784
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Karlsruhe",
+        "address": "SaaS Web Office, Steinstraße 25, 76133 Karlsruhe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.94862,
+          6.94484
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Köln",
+        "address": "Startplatz, Im Mediapark 5, 50670 Köln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.12985,
+          11.55961
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup München",
+        "address": "Tagungszentrum der AIDS-Hilfe München e.V, Lindwurmstraße 71, 80337 München"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.27341,
+          8.04398
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Osnabrück-Münster-Emsland",
+        "address": "Grüner Jäger, An der Katharinenkirche 1, 49074 Osnabrück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.71814,
+          8.74587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Paderborn",
+        "address": "Sputnik, Imadstraße 7,  33102 Paderborn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.40337,
+          13.05846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Potsdam",
+        "address": "Daily Coffee, Friedrich-Ebert-Strasse 31, 14467 Potsdam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.48623,
+          9.94530
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Saarland",
+        "address": "Saalbau Nunkirchen, Pastor-Fuchs-Straße 5, 66687 Wadern Nunkirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.79801,
+          9.94530
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Würzburg",
+        "address": "Eurotext AG, Schürerstraße 3, 97080 Würzburg"
+      }
+    }
+  ]
+}
