@@ -261,6 +261,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.157009,
+          48.7707173
+        ]
+      },
+      "properties": {
+        "marker-symbol": "w",
+        "name": "WP Meetup Stuttgart",
+        "address": "Coworking0711, Gutenbergstraße 77a, 1. OG, 70197 Stuttgart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.94530,
           49.79801
         ]
